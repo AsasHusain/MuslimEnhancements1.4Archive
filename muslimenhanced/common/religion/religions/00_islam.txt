@@ -349,7 +349,7 @@
 
 			#DOCTRINES:
 			#Sunni
-			doctrine = muhammad_succession_sunni_doctrine
+			doctrine = muhammad_succession_zandaqa_moderate_doctrine
 
 			doctrine = doctrine_no_head
 			doctrine = doctrine_divorce_allowed
@@ -379,7 +379,7 @@
 			#Deviancy is a crime
 			#Fundamentalist
 			
-			doctrine = muhammad_succession_zandaqa_doctrine	#Technically Shia
+			doctrine = muhammad_succession_zandaqa_moderate_doctrine	#Technically Shia
 			doctrine = doctrine_no_head
 			doctrine = doctrine_homosexuality_crime
 			doctrine = doctrine_adultery_men_crime
@@ -584,7 +584,7 @@
 			#Shia
 			#No religious head
 			#Witchcraft is a sin
-			doctrine = muhammad_succession_shia_doctrine	#Technically Shia
+			doctrine = muhammad_succession_zandaqa_doctrine	#Technically Shia
 			doctrine = doctrine_no_head
 			doctrine = doctrine_witchcraft_shunned
 
@@ -620,7 +620,7 @@
 			#Free divorce
 			#Adultery is a crime
 			#Clergy - equal
-			doctrine = muhammad_succession_shia_doctrine	#Technically Shia
+			doctrine = muhammad_succession_zandaqa_doctrine	#Technically Shia
 			doctrine = doctrine_spiritual_head
 			doctrine = doctrine_monogamy
 			doctrine = doctrine_divorce_allowed
@@ -661,7 +661,7 @@
 			#Adultery is a crime
 			#Witchcraft is a sin
 			#Clerical gender - Either
-			doctrine = muhammad_succession_shia_doctrine	#Technically Shia
+			doctrine = muhammad_succession_zandaqa_doctrine	#Technically Shia
 			doctrine = doctrine_divorce_disallowed
 			doctrine = doctrine_adultery_women_crime
 			doctrine = doctrine_adultery_men_crime
