@@ -14,6 +14,14 @@
  isfahani_adherent_plural:0 "Isfahanis"
  isfahani_desc:0 "An apocalyptic sect of Zoroastrianism enforced during the reign of Abu'l-Fadl al-Isfahani as Mahdi-Caliph, characterised by the public cursing of Islam and Muslim religious leaders and the mass killing of prominent Qarmatian noble families."
  
+ #Basegame Zandaqa (Renamed to Ghulat)
+ muhammad_succession_zandaqa_doctrine_name:0 "Ghulat"
+ muhammad_succession_zandaqa_doctrine_desc:0 "Though we may trace the line of the Prophet correctly or not according to other Muslims, our beliefs mark us as outcasts regardless. Let the nawasib call us Ghulat: we merely afford the true heirs of the Prophet the full respect they are due!"
+ 
+ #New Zandaqa
+ muhammad_succession_zandaqa_moderate_doctrine_name:0 "Zandaqa"
+ muhammad_succession_zandaqa_moderate_doctrine_desc:0 "Though we may trace the line of the Prophet correctly or not according to other Muslims, our beliefs tread dangerously close to heresy in the eyes of other Muslims. We must tread carefully, lest we be targetted as Zindiq."
+ 
  #Ithna Ash'ari
  imami:0 "Ithna Ash'arism"
  imami_adj:0 "Ithna Ash'ari"
