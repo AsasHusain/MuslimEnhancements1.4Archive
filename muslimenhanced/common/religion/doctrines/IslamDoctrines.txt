@@ -70,4 +70,18 @@
 			intrigue = 2
 		}
 	}
+	
+	muhammad_succession_zandaqa_moderate_doctrine = {
+		piety_cost = {
+			value = faith_doctrine_cost_low
+			if = {
+				limit = { has_doctrine = muhammad_succession_zandaqa_doctrine }
+				multiply = 0
+			}
+		}
+		character_modifier = {
+			monthly_learning_lifestyle_xp_gain_mult = 0.2
+			learning = 2
+		}
+	}
 }
