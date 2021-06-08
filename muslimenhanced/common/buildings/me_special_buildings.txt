@@ -1103,7 +1103,7 @@ holy_site_great_mosque_of_samarra_01 = {
 
 	asset = {
 		type = pdxmesh
-		name = "building_mena_city_02_mesh"
+		name = "building_mena_temple_02_mesh"
 	}
 	
 	can_construct_potential = {
