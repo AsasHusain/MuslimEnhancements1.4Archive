@@ -69,6 +69,10 @@
 			advantage_against_coreligionists = 5
 			intrigue = 2
 		}
+		
+		traits = {
+			virtues = { sayyid }
+		}
 	}
 	
 	muhammad_succession_zandaqa_moderate_doctrine = {
