@@ -68,6 +68,9 @@
 	culture = baranis
 	religion = najdat
 	holding = castle_holding
+	720.1.1 = {
+		religion = barghawata
+	}
 	1070.1.1 = {
 		religion = ashari
 	}
