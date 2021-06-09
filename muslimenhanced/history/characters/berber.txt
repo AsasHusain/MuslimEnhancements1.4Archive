@@ -1,4 +1,4 @@
-﻿# Called baranis in-game
+# Called baranis in-game
 
 6882 = {
 	name = Berkan # Fantasy
@@ -7173,7 +7173,7 @@
 168275 = {
 	name = "Tarif"
 	dynasty = 9576
-	religion = "najdat"
+	religion = "barghawata"
 	culture = baranis
 	690.1.1 = {
 		birth = yes
@@ -7186,7 +7186,7 @@
 168276 = {
 	name = "Salih"
 	dynasty = 9576
-	religion = "ismaili" #changed religion
+	religion = "barghawata"
 	culture = baranis
 	father = 168275
 	720.1.1 = {
@@ -7200,7 +7200,7 @@
 168277 = {
 	name = "al-YasA_"
 	dynasty = 9576
-	religion = "najdat"
+	religion = "barghawata"
 	culture = baranis
 	father = 168276
 	775.1.1 = {
@@ -7214,7 +7214,7 @@
 168278 = {
 	name = "Yunus"
 	dynasty = 9576
-	religion = "najdat"
+	religion = "barghawata"
 	culture = baranis
 	father = 168277
 	820.1.1 = {
@@ -7228,7 +7228,7 @@
 168279 = {
 	name = "Muhammad" #Abu Ghufayl, nephew of Yunus
 	dynasty = 9576
-	religion = "najdat"
+	religion = "barghawata"
 	culture = baranis
 	father = baranis0010
 	855.1.1 = {
@@ -7242,7 +7242,7 @@
 168280 = {
 	name = "Abdullah"
 	dynasty = 9576
-	religion = "najdat"
+	religion = "barghawata"
 	culture = baranis
 	father = 168279
 	895.1.1 = {
@@ -7256,7 +7256,7 @@
 168281 = {
 	name = "Mansur"
 	dynasty = 9576
-	religion = "najdat"
+	religion = "barghawata"
 	culture = baranis
 	father = 168280
 	939.1.1 = {
