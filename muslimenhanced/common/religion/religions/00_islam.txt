@@ -902,8 +902,8 @@ islam_religion = {
 				PriestFemalePlural = islam_shia_priest_plural
 				PriestNeuter = islam_shia_priest
 				PriestNeuterPlural = islam_shia_priest_plural
-				ReligiousHeadName = islam_shia_religious_head_title
-				ReligiousHeadTitleName = islam_shia_religious_head_title_name
+				ReligiousHeadName = islam_barghawata_religious_head_title
+				ReligiousHeadTitleName = islam_barghawata_religious_head_title_name
 			}
 		}
 	}
