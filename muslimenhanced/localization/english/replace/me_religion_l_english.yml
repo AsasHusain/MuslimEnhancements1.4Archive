@@ -14,6 +14,15 @@
  isfahani_adherent_plural:0 "Isfahanis"
  isfahani_desc:0 "An apocalyptic sect of Zoroastrianism enforced during the reign of Abu'l-Fadl al-Isfahani as Mahdi-Caliph, characterised by the public cursing of Islam and Muslim religious leaders and the mass killing of prominent Qarmatian noble families."
  
+ #Barghawata
+ barghawata:0 "Barghawata"
+ barghawata_adj:0 "Barghawata"
+ barghawata_adherent:0 "Barghawatan"
+ barghawata_adherent_plural:0 "Barghawatans"
+ barghawata_desc:0 "A syncretic faith combining Sunni, Shi'a and Kharijite Islam with traditional Berber mythology, the Barghawata religion also has its own Quran in the Berber language, along with astrological elements and a belief in the divinity and prophethood of the ruling Barghawata dynasty."
+ islam_barghawata_religious_head_title:0 "Nabi"
+ islam_barghawata_religious_head_title_name:0 "confederacy"
+ 
  #Basegame Zandaqa (Renamed to Ghulat)
  muhammad_succession_zandaqa_doctrine_name:0 "Ghulat"
  muhammad_succession_zandaqa_doctrine_desc:0 "Though we may trace the line of the Prophet correctly or not according to other Muslims, our beliefs mark us as outcasts regardless. Let the nawasib call us Ghulat: we merely afford the true heirs of the Prophet the full respect they are due!"
