@@ -872,5 +872,39 @@ islam_religion = {
 				ReligiousHeadTitleName = islam_shia_religious_head_title_name
 			}
 		}
+		
+		barghawata = {
+			color = hsv360{ 25 100 63 }
+			icon = muhakkima_3
+
+
+			holy_site = tinmallal
+			holy_site = fes
+			holy_site = carthage
+			holy_site = sijilmasa	
+			holy_site = cordoba
+
+			#Tenet
+			doctrine = tenet_astrology
+			doctrine = tenet_unreformed_syncretism
+			doctrine = tenet_communal_identity
+
+			#Doctrines
+			doctrine = muhammad_succession_zandaqa_doctrine
+			doctrine = doctrine_divorce_allowed
+			doctrine = doctrine_witchcraft_accepted
+			doctrine = doctrine_consanguinity_restricted
+
+			localization = {		
+				PriestMale = islam_shia_priest
+				PriestMalePlural = islam_shia_priest_plural
+				PriestFemale = islam_shia_priest
+				PriestFemalePlural = islam_shia_priest_plural
+				PriestNeuter = islam_shia_priest
+				PriestNeuterPlural = islam_shia_priest_plural
+				ReligiousHeadName = islam_shia_religious_head_title
+				ReligiousHeadTitleName = islam_shia_religious_head_title_name
+			}
+		}
 	}
 }
