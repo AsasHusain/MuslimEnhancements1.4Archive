@@ -876,6 +876,7 @@ islam_religion = {
 		barghawata = {
 			color = hsv360{ 25 100 63 }
 			icon = muhakkima_3
+			religious_head = d_barghawata
 
 
 			holy_site = tinmallal
