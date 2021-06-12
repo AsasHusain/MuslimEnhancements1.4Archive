@@ -1,0 +1,44 @@
+5726 = {	#BAGARAN
+	culture = armenian
+	religion = apostolic
+	holding = city_holding
+	# History
+	867.1.1 = { name = "Vagharshapat" 
+	special_building_slot = etchmiadzin_cathedral_01
+	special_building = etchmiadzin_cathedral_01
+	}
+	1066.1.1 = { name = "Vagharshapat" }
+}
+
+5721 = {	#BERKRI
+	culture = armenian
+	religion = apostolic
+	holding = castle_holding
+	# History
+	867.1.1 = {
+	special_building_slot = chapel_dzordzor_01
+	special_building = chapel_dzordzor_01
+	}
+}
+
+5722 = {	#MAKU
+	culture = armenian
+	religion = apostolic
+	holding = city_holding
+	# History
+	867.1.1 = {
+	special_building_slot = monastery_saint_thaddeus_01
+	special_building = monastery_saint_thaddeus_01
+	}
+}
+
+5785 = {	#NAXCIVAN
+	culture = armenian
+	religion = apostolic
+	holding = city_holding
+	# History
+	867.1.1 = {
+	special_building_slot = monastery_saint_stepanos_01
+	special_building = monastery_saint_stepanos_01
+	}
+}
