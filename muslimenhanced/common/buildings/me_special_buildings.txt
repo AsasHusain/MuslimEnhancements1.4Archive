@@ -1,4 +1,4 @@
-﻿##########
+##########
 # Imam Ali Mosque
 ##########
 
@@ -1103,7 +1103,7 @@ holy_site_great_mosque_of_samarra_01 = {
 
 	asset = {
 		type = pdxmesh
-		name = "building_mena_temple_02_mesh"
+		name = "building_mena_temple_islamic_02_mesh"
 	}
 	
 	can_construct_potential = {
@@ -1925,6 +1925,201 @@ al_qarawiyyin_university = {
 	county_modifier = {
 		development_growth_factor = 0.25
 		development_growth = 0.2
+	}
+	
+	ai_value = {
+		base = 100
+	}
+	
+	type = special
+}
+
+##########
+# Etchmiadzin Cathedral
+##########
+etchmiadzin_cathedral_01 = {
+	construction_time = very_slow_construction_time
+
+	type_icon = "icon_structure_hotin_fortress.dds"
+
+	asset = {
+		type = pdxmesh
+		name = "building_indian_temple_orthodox_01_mesh"
+	}
+
+	is_enabled = {
+		custom_description = {
+			text = holy_site_building_trigger
+			scope:holder = {
+				religion = religion:christianity_religion
+				}
+			}
+		}
+
+	can_construct_potential = {
+		building_requirement_tribal = no
+	}
+	
+	cost_gold = 1000
+
+	character_modifier = {
+		monthly_county_control_change_factor = 0.1
+		piety_level_impact_mult = 0.5
+		same_faith_opinion = 3
+	}
+	
+	county_modifier = {
+		monthly_income = 3
+		development_growth = 0.1
+	}
+	
+	province_modifier = {
+		monthly_income = 2
+	}
+	
+	ai_value = {
+		base = 100
+	}
+	
+	type = special
+}
+
+##########
+# Chapel of Dzordzor
+##########
+chapel_dzordzor_01 = {
+	construction_time = very_slow_construction_time
+
+	type_icon = "icon_structure_nalanda.dds"
+
+	asset = {
+		type = pdxmesh
+		name = "building_indian_temple_orthodox_01_mesh"
+	}
+
+	is_enabled = {
+		custom_description = {
+			text = holy_site_building_trigger
+			scope:holder = {
+				religion = religion:christianity_religion
+				}
+			}
+		}
+
+	can_construct_potential = {
+		building_requirement_tribal = no
+	}
+	
+	cost_gold = 1000
+
+	character_modifier = {
+		monthly_piety = 5
+		same_faith_opinion = 2
+	}
+	
+	county_modifier = {
+		monthly_income = 2
+	}
+
+	
+	ai_value = {
+		base = 100
+	}
+	
+	type = special
+}
+
+##########
+# Monastery of Saint Thaddeus
+##########
+monastery_saint_thaddeus_01 = {
+	construction_time = very_slow_construction_time
+
+	type_icon = "icon_structure_palace_of_achen.dds"
+
+	asset = {
+		type = pdxmesh
+		name = "building_indian_temple_orthodox_02_mesh"
+	}
+
+	is_enabled = {
+		custom_description = {
+			text = holy_site_building_trigger
+			scope:holder = {
+				religion = religion:christianity_religion
+				}
+			}
+		}
+
+	can_construct_potential = {
+		building_requirement_tribal = no
+	}
+	
+	cost_gold = 1000
+
+	character_modifier = {
+		piety_level_impact_mult = 0.5
+		monthly_piety = 2
+		monthly_dynasty_prestige_mult = 0.08
+	}
+	county_modifier = {
+		tax_mult = 0.3
+		development_growth_factor = 0.25
+		development_growth = 0.2
+	}
+	
+	province_modifier = {
+		monthly_income = 2
+	}
+	
+	ai_value = {
+		base = 100
+	}
+	
+	type = special
+}
+
+##########
+# Monastery of Saint Stepanos
+##########
+monastery_saint_stepanos_01 = {
+	construction_time = very_slow_construction_time
+
+	type_icon = "icon_structure_alhambra.dds"
+
+	asset = {
+		type = pdxmesh
+		name = "building_indian_temple_orthodox_02_mesh"
+	}
+
+	is_enabled = {
+		custom_description = {
+			text = holy_site_building_trigger
+			scope:holder = {
+				religion = religion:christianity_religion
+				}
+			}
+		}
+
+	can_construct_potential = {
+		building_requirement_tribal = no
+	}
+	
+	cost_gold = 1000
+
+	character_modifier = {
+		piety_level_impact_mult = 0.8
+		monthly_piety = 1
+		build_gold_cost = -0.08
+	}
+	county_modifier = {
+		tax_mult = 0.15
+		development_growth_factor = 0.3
+
+	}
+	
+	province_modifier = {
+		monthly_income = 3
 	}
 	
 	ai_value = {
