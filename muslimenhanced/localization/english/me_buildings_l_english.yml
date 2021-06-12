@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
  building_madrasa_01:0 "Madrasa"
  building_type_madrasa_01:0 "Madrasa"
  building_madrasa_01_desc:0 "#F A Madrasa is a place of Islamic scholarly learning, debate, and ideological exchange. Attendants of the Madrasa are instructed in Islamic law, Quranic studies, and are given a basis upon which to conduct themselves as curious, inquiring Muslims.#!"
@@ -136,3 +136,24 @@
  building_type_prahladpuri_temple_01_desc:0 "#F Whenever a traveler visits the city of Multan, they are fascinated by the sight of the ancient Prahladpuri Temple. Hindus believe this temple to be built by Prahlada, the son of the Asur-King Hiranyakashipu. The age-old Hindu tradition of Holika Dahan is believed to originate from this site.#!"
  building_prahladpuri_temple_01:0 "$building_type_prahladpuri_temple_01$"
  building_prahladpuri_temple_01_desc:0 "$building_type_prahladpuri_temple_01_desc$"
+
+ building_type_etchmiadzin_cathedral_01:0 "Etchmiadzin Cathedral"
+ building_type_etchmiadzin_cathedral_01_desc:0 "#F Built during the advent of the fourth century by Armenia's patron saint Gregory the Illuminator, this cathedral stands as a landmark of Christianity's domination of Armenia, built over an ancient pagan temple. This cathedral represents not just a holy site for Christians, it is a monument to their success.#!"
+ building_etchmiadzin_cathedral_01:0 "$building_type_etchmiadzin_cathedral_01$"
+ building_etchmiadzin_cathedral_01_desc:0 "$building_type_etchmiadzin_cathedral_01_desc$"
+
+ building_type_chapel_dzordzor_01:0 "Chapel of Dzordzor"
+ building_type_chapel_dzordzor_01_desc:0 "#F This humble Chapel serves as a prominent gathering place for Armenian Christians, and is one of the region's most beloved and popular places of worship among the locals.#!"
+ building_chapel_dzordzor_01:0 "$building_type_chapel_dzordzor_01$"
+ building_chapel_dzordzor_01_desc:0 "$building_type_chapel_dzordzor_01_desc$"
+
+ building_type_monastery_saint_thaddeus_01:0 "Monastery of Saint Thaddeus"
+ building_type_monastery_saint_thaddeus_01_desc:0 "#F As one of the oldest Christian churches in the world, this Monastery is an unmissable landmark of the region. It is dedicated to the heroic Armenian apostle, Saint Thaddeus, who first evangelized Armenia and Persia.#!"
+ building_monastery_saint_thaddeus_01:0 "$building_type_monastery_saint_thaddeus_01$"
+ building_monastery_saint_thaddeus_01_desc:0 "$building_type_monastery_saint_thaddeus_01_desc$"
+
+building_type_monastery_saint_stepanos_01:0 "Monastery of Saint Stepanos"
+ building_type_monastery_saint_stepanos_01_desc:0 "#F Originally founded by Saint Bartholomew the Apostle under the reign of the great Parthian Empire, this great monastic complex celebrates the first Christian martyr and the first of seven deacons to be ordained by the twelve apostles.#!"
+ building_monastery_saint_stepanos_01:0 "$building_type_monastery_saint_stepanos_01$"
+ building_monastery_saint_stepanos_01_desc:0 "$building_type_monastery_saint_stepanos_01_desc$"
+ 
